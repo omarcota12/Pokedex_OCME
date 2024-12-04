@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokedex_OCME.Android", "Pokedex_EESA.Android\Pokedex_OCME.Android.csproj", "{B0586111-213E-4D5D-99BE-FA341634493E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokedex_OCME.Android", "Pokedex_OCME.Android\Pokedex_OCME.Android.csproj", "{B0586111-213E-4D5D-99BE-FA341634493E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokedex_OCME.iOS", "Pokedex_EESA.iOS\Pokedex_OCME.iOS.csproj", "{C1F29148-7EFB-4BD0-B8E5-441CB9A25167}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokedex_OCME.iOS", "Pokedex_OCME.iOS\Pokedex_OCME.iOS.csproj", "{C1F29148-7EFB-4BD0-B8E5-441CB9A25167}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokedex_OCME", "Pokedex_EESA\Pokedex_OCME.csproj", "{6E1BE51B-79FE-483E-80AC-0AE287B55445}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokedex_OCME", "Pokedex_OCME\Pokedex_OCME.csproj", "{6E1BE51B-79FE-483E-80AC-0AE287B55445}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
