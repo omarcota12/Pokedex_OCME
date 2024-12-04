@@ -5,13 +5,13 @@
              NavigationPage.HasNavigationBar="False">
     <Grid RowDefinitions="80,*" BackgroundColor="#1d1d1d">
         <StackLayout Orientation="Horizontal" Margin="15">
-            <Image Source="https://i.ibb.co/Fg1Z6bV/flechaatras.png" WidthRequest="40" VerticalOptions="Start">
+            <Image Source="https://i.ibb.co/Fg1Z6bV/flechaatras.png" WidthRequest="40" HorizontalOptions="Start">
                 <Image.GestureRecognizers>
                     <TapGestureRecognizer Command="{Binding Volvercommand}"/>
                 </Image.GestureRecognizers>
             </Image>
-            <Image Source="https://i.ibb.co/MBBzsJ4/Pokemonlogo.jpg" VerticalOptions="Center"/>
-            <Image Source="https://i.ibb.co/5s8LQrZ/pokemon.png" VerticalOptions="End" />
+            <Image Source="https://i.ibb.co/MBBzsJ4/Pokemonlogo.jpg" HorizontalOptions="CenterAndExpand"/>
+            <Image Source="https://i.ibb.co/5s8LQrZ/pokemon.png"/>
         </StackLayout>
         <StackLayout Grid.Row="1" Margin="10">
             <StackLayout Orientation="Horizontal">

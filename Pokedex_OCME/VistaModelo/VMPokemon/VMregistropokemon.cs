@@ -74,7 +74,7 @@ namespace Pokedex_OCME.VistaModelo.VMPokemon
         }
         public async Task Volver()
         {
-            await Navigation.PopModalAsync();
+            await Navigation.PopAsync();
         }
 
         public void ProcesoSimple()

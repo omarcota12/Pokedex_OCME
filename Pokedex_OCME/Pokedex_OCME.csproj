@@ -21,12 +21,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Compile Update="Vista\Pokemon\ListaPokemon.xaml.cs">
-      <DependentUpon>ListaPokemon.xaml</DependentUpon>
-    </Compile>
-  </ItemGroup>
-
-  <ItemGroup>
     <EmbeddedResource Update="Vista\Pokemon\Detallepokemon.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>

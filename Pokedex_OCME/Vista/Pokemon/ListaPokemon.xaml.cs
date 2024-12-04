@@ -17,10 +17,7 @@ namespace Pokedex_OCME.Vista.Pokemon
         {
             InitializeComponent();
             BindingContext = new VMlistapokemon(Navigation);
-           
+
         }
-
- 
-
     }
 }

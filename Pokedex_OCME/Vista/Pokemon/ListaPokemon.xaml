@@ -55,7 +55,7 @@
                         </Frame>
                         <Image 
                      Grid.RowSpan="2"
-                     HeightRequest="180"
+                     HeightRequest="90"
                      VerticalOptions="StartAndExpand"
                            Margin="0,20,0,0"
                            Source="{Binding icono}"
